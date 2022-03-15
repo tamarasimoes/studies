@@ -25,3 +25,10 @@ for (let index = 0; index < list.length; index++) {
     addArray.appendChild(addArrayItem);
 
 }
+
+function changeColor() {
+    news.style.backgroundColor = 'black';
+    news.style.color = 'white';
+    news.style.padding = '10px';
+
+}
